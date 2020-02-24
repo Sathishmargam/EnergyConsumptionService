@@ -10,4 +10,5 @@ public interface EnergyConstants {
 	String DATA_SUCCESS_MESSAGE="Village data has been stored successfully";
 	String ZEN_SERVER_ERROR="Exception occured while connecting to zen server";
 	String DURATION_ERROR_MESSAGE ="Sorry, Currently we are providing only last 24hours report, please provide the duration as '24'";
+	String API_MAPPING ="/api";
 }
