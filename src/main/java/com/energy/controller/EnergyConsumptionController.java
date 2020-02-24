@@ -25,6 +25,7 @@ import com.energy.repository.EnergyConsumptionRepository;
 import com.energy.service.EnergyService;
 
 @RestController
+@RequestMapping(EnergyConstants.API_MAPPING)
 public class EnergyConsumptionController {
 
 	private final Logger LOG = LoggerFactory.getLogger(EnergyConsumptionController.class);
