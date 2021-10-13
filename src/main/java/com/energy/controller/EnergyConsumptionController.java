@@ -28,6 +28,8 @@ import com.energy.service.EnergyService;
 @RequestMapping(EnergyConstants.API_MAPPING)
 public class EnergyConsumptionController {
 
+
+	//status
 	private final Logger LOG = LoggerFactory.getLogger(EnergyConsumptionController.class);
 
 	@Autowired
