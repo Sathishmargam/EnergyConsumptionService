@@ -30,7 +30,6 @@ public class EnergyConsumptionController {
 
 
 	//status
-	//gdisgf
 	private final Logger LOG = LoggerFactory.getLogger(EnergyConsumptionController.class);
 
 	@Autowired
